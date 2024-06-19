@@ -1,0 +1,18 @@
+.main-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 80px;
+}
+
+
+.main-header .button{
+    color: #667085;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    border-radius: 8px;
+    height: 44px;
+    text-decoration: none;
+    margin-left: 25px;
+}
