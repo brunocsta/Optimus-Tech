@@ -1,0 +1,14 @@
+@import "variaveis.css";
+
+.metricas-container {
+    display: flex;
+}
+
+.metricas-container .title{
+    color: var(--main-color);
+    font-size: 3.8rem;
+}
+
+.metricas-container #teste{
+    font-size: 60px;
+}
