@@ -1,26 +1,15 @@
-.navActions{
-    display: flex;
-    gap: 12px;
-
-}
-
-.main-button {
+.buttons button{
+    background: none;
     color: #667085;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    border-radius: 8px;
-    height: 44px;
-    text-decoration: none;
-    background: #fff;
+    font-size: 0.9rem;
+    padding: 0.8rem 1rem;    
+    border-radius: 0.5rem;
+    font-weight: 500;
+    border: none;
     cursor: pointer;
-    box-shadow: 0px 1px 2 #1018280D;
 }
 
-.main-button.-red{
+.buttons #signUp {
     color: #fff;
     background-color: #8E2424;
-    border: 1px;
-    padding: 10px 18px;
-
 }

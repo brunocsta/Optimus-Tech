@@ -1,0 +1,7 @@
+.main-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: #667085;
+    padding: 1rem 0;
+}
