@@ -2,6 +2,6 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    color: #667085;
+    color: var(--text-color);
     padding: 1rem 0;
 }

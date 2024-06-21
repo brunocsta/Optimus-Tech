@@ -1,6 +1,8 @@
+@import "variaveis.css";
+
 .buttons button{
     background: none;
-    color: #667085;
+    color: var(--text-color);
     font-size: 0.9rem;
     padding: 0.8rem 1rem;    
     border-radius: 0.5rem;
@@ -11,5 +13,5 @@
 
 .buttons #signUp {
     color: #fff;
-    background-color: #8E2424;
+    background-color: var(--main-color);
 }
